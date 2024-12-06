@@ -28,7 +28,7 @@ Este projeto Java é um cliente para a API da Tabela FIPE, permitindo a consulta
 * Maven.
 ### 1. **Clone o repositório:**
    ```bash
-   git clone https://[seu_repositorio]
+   git clone https://github.com/ClairtonZerwes/consulta-tabela-fipe.git
    ``` 
 
 ## Licença
